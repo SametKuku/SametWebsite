@@ -1,6 +1,6 @@
 Demo görünümü
 
-1-Lego Sitesi : https://sametkuku.github.io/SametWebsites/LegoSitesi/
+1-Lego Sitesi : https://sametkuku.github.io/SametWebsite/LegoSitesi/
 
 2- ...
 
