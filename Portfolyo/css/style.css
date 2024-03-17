@@ -409,3 +409,241 @@ footer p:nth-child(2){
 
 
 
+   /* CSS for mobile responsiveness */
+@media only screen and (max-width: 768px) {
+    .hero {
+        height: auto;
+        min-height: 100vh;
+        background-size: cover;
+        background-position: center;
+    }
+
+    nav {
+        padding: 25px 8%;
+    }
+
+    .logo {
+        font-size: 28px;
+    }
+
+    nav ul li {
+        padding: 10px 15px;
+    }
+
+    .content {
+        position: static;
+        text-align: center;
+        margin-top: 20px;
+        left: 0;
+        transform: none;
+        top: 0;
+    }
+
+    h1 {
+        font-size: 45px;
+    }
+
+    h3 {
+        font-size: 20px;
+        margin-bottom: 30px;
+    }
+
+    .newslatter form input:first-child {
+        padding: 14px 15px;
+    }
+
+    .newslatter form input:last-child {
+        padding: 10px 15px;
+        top: 0;
+        right: 0;
+    }
+
+    .about img {
+        width: 100%;
+        max-width: 300px;
+    }
+
+    .about-text {
+        width: 100%;
+        text-align: center;
+    }
+
+    .about-text h2 {
+        font-size: 45px;
+    }
+
+    .about-text h5 {
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+
+    .about-text p {
+        font-size: 16px;
+        line-height: 24px;
+        margin-bottom: 30px;
+    }
+
+    .main {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .title h2 {
+        font-size: 45px;
+        width: 90%;
+        margin: 20px auto;
+    }
+
+    .box {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .card {
+        width: 90%;
+        margin: 15px 0;
+    }
+
+    .contact-me p {
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+
+    .contact-me .button-two {
+        padding: 13px 20px;
+    }
+
+    footer {
+        padding: 20px 5%;
+    }
+
+    footer p:nth-child(1) {
+        font-size: 24px;
+    }
+
+    footer p:nth-child(2) {
+        font-size: 14px;
+    }
+
+    .social a {
+        width: 40px;
+        height: 40px;
+        font-size: 18px;
+        margin: 12px 8px;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .logo {
+        font-size: 22px;
+    }
+
+    .content h1 {
+        font-size: 22px;
+    }
+
+    h1 {
+        font-size: 35px;
+    }
+
+    .yuvarla {
+        width: 60%;
+    }
+
+    footer p:nth-child(1) {
+        font-size: 20px;
+    }
+
+    footer p:nth-child(2) {
+        font-size: 12px;
+    }
+
+    .social a {
+        width: 35px;
+        height: 35px;
+        font-size: 16px;
+        margin: 10px 6px;
+    }
+}
+
+
+
+
+
+
+/* CSS for mobile responsiveness */
+@media only screen and (max-width: 768px) {
+    nav {
+        padding: 25px 8%;
+    }
+
+    .logo {
+        font-size: 28px;
+    }
+
+    nav ul li {
+        padding: 10px 15px;
+    }
+
+    .content {
+        position: static;
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .yuvarla {
+        width: 70%;
+        margin: 20px auto;
+    }
+
+    footer {
+        padding: 20px 5%;
+    }
+
+    footer p:nth-child(1) {
+        font-size: 24px;
+    }
+
+    footer p:nth-child(2) {
+        font-size: 14px;
+    }
+
+    .social a {
+        width: 40px;
+        height: 40px;
+        font-size: 18px;
+        margin: 12px 8px;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .logo {
+        font-size: 22px;
+    }
+
+    .content h1 {
+        font-size: 22px;
+    }
+
+    .yuvarla {
+        width: 60%;
+    }
+
+    footer p:nth-child(1) {
+        font-size: 20px;
+    }
+
+    footer p:nth-child(2) {
+        font-size: 12px;
+    }
+
+    .social a {
+        width: 35px;
+        height: 35px;
+        font-size: 16px;
+        margin: 10px 6px;
+    }
+}
+
+
+
