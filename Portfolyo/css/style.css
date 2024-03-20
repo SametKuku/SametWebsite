@@ -546,8 +546,14 @@ footer p:nth-child(2){
         font-size: 35px;
     }
 
-    .yuvarla {
+    .yuvarla { 
+
+
+/* Halledildi */
         width: 60%;
+        position: relative;
+        left: 20%;
+        top: 5%;
     }
 
     footer p:nth-child(1) {
